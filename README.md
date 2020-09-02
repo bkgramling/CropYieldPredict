@@ -1,2 +1,2 @@
 # CropYieldPredict
-Tool used to forecast future weather parameters (rainfall, solar radiation, cloud coverage) and predict soil moisture for future crop yield estimates.
+Tool used to predict future rainfall to determine the amount of water needed to support adequate level of crop yields in a specific location.
